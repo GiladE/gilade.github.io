@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gilad.ninja//pages/about_me/</loc>
+    <loc>https://gilad.ninja/pages/about_me/</loc>
     <lastmod>2019-03-18T12:22:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gilad.ninja//pages/my_projects/</loc>
+    <loc>https://gilad.ninja/pages/my_projects/</loc>
     <lastmod>2019-03-18T12:22:19+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gilad.ninja//categories/</loc>
+    <loc>https://gilad.ninja/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gilad.ninja//pages/</loc>
+    <loc>https://gilad.ninja/pages/</loc>
     <lastmod>2019-03-18T12:22:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gilad.ninja//tags/</loc>
+    <loc>https://gilad.ninja/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gilad.ninja//</loc>
+    <loc>https://gilad.ninja/</loc>
     <lastmod>2019-03-18T12:22:20+02:00</lastmod>
     <priority>0</priority>
   </url>
