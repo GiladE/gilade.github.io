@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gilad.ninja</title>
-    <link>https://gilade.github.io/</link>
+    <link>gilade.github.io/</link>
     <description>Recent content on gilad.ninja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 12:22:20 +0200</lastBuildDate>
     
-	<atom:link href="https://gilade.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="gilade.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://gilade.github.io/pages/about_me/</link>
+      <link>gilade.github.io/pages/about_me/</link>
       <pubDate>Mon, 18 Mar 2019 12:22:20 +0200</pubDate>
       
-      <guid>https://gilade.github.io/pages/about_me/</guid>
+      <guid>gilade.github.io/pages/about_me/</guid>
       <description> TODO
  </description>
     </item>
     
     <item>
       <title>My Projects</title>
-      <link>https://gilade.github.io/pages/my_projects/</link>
+      <link>gilade.github.io/pages/my_projects/</link>
       <pubDate>Mon, 18 Mar 2019 12:22:19 +0200</pubDate>
       
-      <guid>https://gilade.github.io/pages/my_projects/</guid>
+      <guid>gilade.github.io/pages/my_projects/</guid>
       <description> TODO
  </description>
     </item>
